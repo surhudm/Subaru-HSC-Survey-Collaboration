@@ -8,7 +8,7 @@ This document (v0.9) is a draft Code of Conduct for the Subaru Hyper-Suprime Sur
 
 1. [HSC Code of Conduct](#a1)
    1. [Discrimination](#discrimination)
-   1. [Harrasment](#harassment)
+   1. [Harassment](#harassment)
    1. [Bullying](#bullying)
    1. [Scientific misconduct](#scientific-misconduct)
 1. [Implementation of the Code of Conduct](#implementation-of-the-code-of-conduct)
@@ -118,7 +118,7 @@ The Subaru HSC Code of Conduct working group members who contributed to this doc
 
 <a name="f2">2</a>:  In case of a formal complaint, Appendix B (b) of the [IAU Code of Conduct](https://www.iau.org/static/archives/announcements/pdf/ann16007a.pdf) may be used as guidance (wherever relevant) for the investigation procedure to be followed. The investigation committee will ideally be set up within a month of the complaint being received, and the investigation be ideally completed within a six month period. In case of complex cases, these timelines could potentially be extended by the Executive Board. [Go back](#a2)
 
-<a name="f3">3</a>:  Be default, the chair of the Local Organizing Committee along with a LOC member will act as contact persons for in-person meetings. For the working group meetings/teleconference calls, the working group co-chairs will act as the contact persons. [Go back](#a3)
+<a name="f3">3</a>:  By default, the chair of the Local Organizing Committee along with a LOC member will act as contact persons for in-person meetings. For the working group meetings/teleconference calls, the working group co-chairs will act as the contact persons. [Go back](#a3)
 
 <a name="f4">4</a>: For teleconference calls related to working group meetings, the (co-)chairs of the working group will assume this responsibility by default. [Go back](#a4)
 
