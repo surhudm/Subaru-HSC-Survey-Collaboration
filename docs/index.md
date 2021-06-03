@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-This document (v0.9) is a draft Code of Conduct for the Subaru Hyper-Suprime Survey (HSC) Collaboration and was written by the [Subaru HSC Code of Conduct working group](#working-group-members) and put forward to the HSC Executive board for adoption.
+This document reflects the Code of Conduct for the Subaru Hyper-Suprime Survey (HSC) Collaboration which was adopted by the HSC Executive Board on May 17, 2021. This Code of Conduct was written by the [Subaru HSC Code of Conduct working group](#working-group-members).
 
 ## Table of Contents
 
